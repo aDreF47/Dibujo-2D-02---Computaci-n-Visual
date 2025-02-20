@@ -106,3 +106,4 @@ Dibujo 2D 02-SegundoTrabajoLaboratorio/
 
 Cualquier duda, ¡pregunta! 😊
 
+![alt text](image.png)
