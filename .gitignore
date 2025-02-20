@@ -1,10 +1,7 @@
 # Binarios y ejecutables
 *.exe
-*.dll
 *.out
 *.o
-*.a
-*.lib
 *.so
 
 # Carpetas de compilación
