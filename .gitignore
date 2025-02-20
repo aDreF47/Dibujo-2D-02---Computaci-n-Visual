@@ -15,6 +15,7 @@ CMakeFiles/
 cmake_install.cmake
 
 # Configuración específica del usuario
-.vscode/
+.vscode/*
+!.vscode/tasks.json
 *.code-workspace
 *.log
