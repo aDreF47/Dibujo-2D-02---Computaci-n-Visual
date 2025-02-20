@@ -1,0 +1,23 @@
+# Binarios y ejecutables
+*.exe
+*.dll
+*.out
+*.o
+*.a
+*.lib
+*.so
+
+# Carpetas de compilación
+/build/
+/bin/
+/obj/
+
+# Archivos de CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Configuración específica del usuario
+.vscode/
+*.code-workspace
+*.log
